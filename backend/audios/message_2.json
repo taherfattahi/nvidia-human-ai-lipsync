@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "C:\\Users\\taher\\Downloads\\talking-avatar-with-ai\\apps\\backend\\audios\\message_2.wav",
+    "duration": 4.67
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.03, "value": "X" },
+    { "start": 0.03, "end": 0.39, "value": "B" },
+    { "start": 0.39, "end": 0.53, "value": "E" },
+    { "start": 0.53, "end": 0.60, "value": "G" },
+    { "start": 0.60, "end": 0.81, "value": "B" },
+    { "start": 0.81, "end": 0.95, "value": "G" },
+    { "start": 0.95, "end": 1.02, "value": "E" },
+    { "start": 1.02, "end": 1.28, "value": "F" },
+    { "start": 1.28, "end": 1.33, "value": "E" },
+    { "start": 1.33, "end": 1.51, "value": "C" },
+    { "start": 1.51, "end": 1.58, "value": "B" },
+    { "start": 1.58, "end": 1.66, "value": "A" },
+    { "start": 1.66, "end": 1.90, "value": "F" },
+    { "start": 1.90, "end": 1.98, "value": "A" },
+    { "start": 1.98, "end": 2.15, "value": "H" },
+    { "start": 2.15, "end": 2.22, "value": "C" },
+    { "start": 2.22, "end": 2.30, "value": "A" },
+    { "start": 2.30, "end": 2.72, "value": "F" },
+    { "start": 2.72, "end": 2.79, "value": "B" },
+    { "start": 2.79, "end": 2.86, "value": "C" },
+    { "start": 2.86, "end": 2.94, "value": "A" },
+    { "start": 2.94, "end": 3.13, "value": "D" },
+    { "start": 3.13, "end": 3.18, "value": "C" },
+    { "start": 3.18, "end": 3.36, "value": "B" },
+    { "start": 3.36, "end": 3.43, "value": "F" },
+    { "start": 3.43, "end": 3.71, "value": "E" },
+    { "start": 3.71, "end": 3.92, "value": "B" },
+    { "start": 3.92, "end": 4.06, "value": "E" },
+    { "start": 4.06, "end": 4.20, "value": "B" },
+    { "start": 4.20, "end": 4.48, "value": "F" },
+    { "start": 4.48, "end": 4.67, "value": "X" }
+  ]
+}
