@@ -102,12 +102,12 @@ ELEVEN_LABS_MODEL_ID=<YOUR_ELEVEN_LABS_MODEL_ID>
 ```
 
 ## References 
-* Talking Avatar With AI https://github.com/asanchezyali/talking-avatar-with-ai
 * How ChatGPT, Bard and other LLMs are signaling an evolution for AI digital humans: https://www.digitalhumans.com/blog/how-chatgpt-bard-and-other-llms-are-signaling-an-evolution-for-ai-digital-humans
 * UnneQ Digital Humans: https://www.digitalhumans.com/
 * LLMs: Building a Less Artificial and More Intelligent AI Human: https://www.linkedin.com/pulse/llms-building-less-artificial-more-intelligent-ai-human/
 * Building a digital person design best practices: https://fcatalyst.com/blog/aug2023/building-a-digital-person-design-best-practices
 * Navigating the Era of Digital Humans": An Initial Exploration of a Future Concept: https://www.linkedin.com/pulse/navigating-era-digital-humans-initial-exploration-future-koelmel-eqrje/ 
+* Talking Avatar With AI https://github.com/asanchezyali/talking-avatar-with-ai
 * How to Setup Tailwind CSS in React JS with VS Code: https://dev.to/david_bilsonn/how-to-setup-tailwind-css-in-react-js-with-vs-code-59p4 
 * Ex-Human: https://exh.ai/#home
 * Allosaurus: https://github.com/xinjli/allosaurus 
