@@ -1,4 +1,4 @@
-https://github.com/taherfattahi/nvidia-human-ai-lipsync/raw/master/video.mp4
+https://github.com/taherfattahi/nvidia-human-ai-lipsync/assets/14248281/999b8886-2455-48d9-a857-50b9bdb1ed66.mp4
 
 ## Nvidia Human AI Lipsync
 This project is a digital human that can talk to you and is animated based on your questions. It uses Nvidia API endpoint Meta llama3-70b to generate responses, Eleven Labs to generate voice and Rhubarb Lip Sync to generate the lip sync.
